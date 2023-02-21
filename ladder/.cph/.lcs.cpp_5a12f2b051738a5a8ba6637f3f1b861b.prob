@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"c:\\study\\sem4\\dsa\\ladder\\lcs.cpp","tests":[{"id":1672240651709,"input":"3\n4\nabab\n6\nabccda\n4\naaaa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\sem4\\dsa\\ladder\\lcs.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: pass","url":"c:\\study\\sem4\\dsa\\ladder\\pass.py","tests":[{"id":1672062758669,"input":"3\n3\nabc\n4\nefgh\n5\njklmn","output":"cba\ngfeh\nnmjkl"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\sem4\\dsa\\ladder\\pass.py","group":"local","local":true}

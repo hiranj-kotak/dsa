@@ -1,0 +1,1 @@
+{"name":"Local: bubble_sort","url":"c:\\study\\sem4\\dsa\\bubble_sort.cpp","tests":[{"id":1671691890592,"input":"6\n35 30 20 25 40 22","output":"21 34 35 42 60\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\sem4\\dsa\\bubble_sort.cpp","group":"local","local":true}
